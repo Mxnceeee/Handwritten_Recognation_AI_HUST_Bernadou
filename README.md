@@ -1,1 +1,0 @@
-# Handwritten_Recognation_AI_HUST_Bernadou
